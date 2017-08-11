@@ -1,0 +1,39 @@
+﻿2016-12-12 17:02:43.790 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Billing\bin\Debug\' with level Info
+2016-12-12 17:02:43.892 INFO  NServiceBus.LicenseManager License expires on 4/24/2017 12:00:00 AM
+2016-12-12 17:02:51.690 INFO  NServiceBus.LicenseManager License expires on 4/24/2017 12:00:00 AM
+2016-12-12 17:06:11.366 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Billing\bin\Debug\' with level Info
+2016-12-12 17:06:11.540 INFO  NServiceBus.LicenseManager License expires on 4/24/2017 12:00:00 AM
+2016-12-12 17:07:50.435 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Billing\bin\Debug\' with level Info
+2016-12-12 17:07:50.637 INFO  NServiceBus.LicenseManager License expires on 4/24/2017 12:00:00 AM
+2016-12-12 17:08:53.027 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Billing\bin\Debug\' with level Info
+2016-12-12 17:08:53.213 INFO  NServiceBus.LicenseManager License expires on 4/24/2017 12:00:00 AM
+2016-12-12 17:08:57.444 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'SVEACORP\se-vahmoha-01' to group 'Performance Monitor Users' because the user is already in group.
+2016-12-12 17:08:57.648 INFO  NServiceBus.Features.QueuePermissions Queue [private$\error] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-12-12 17:08:57.802 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Billing.Timeouts] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-12-12 17:08:57.906 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Billing.TimeoutsDispatcher] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-12-12 17:08:57.980 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Billing] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-12-12 17:09:04.081 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Client with instances [Samples.CustomRouting.Client;machine:SE-DEVPC1028]
+2016-12-12 17:09:04.088 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Shipping with instances [Samples.CustomRouting.Shipping;machine:SE-DEVPC1028]
+2016-12-12 17:09:04.093 INFO  RoutingInfoSubscriber Added route for PlaceOrder to [Samples.CustomRouting.Sales]
+2016-12-12 17:09:04.098 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Sales with instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-1]
+2016-12-12 17:09:04.102 INFO  RoutingInfoSubscriber Added Samples.CustomRouting.Sales as publisher of OrderAccepted.
+2016-12-12 17:09:04.107 INFO  RoutingInfoSubscriber Added instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-2] to endpoint Samples.CustomRouting.Sales
+2016-12-12 17:11:13.198 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Billing\bin\Debug\' with level Info
+2016-12-12 17:11:13.359 INFO  NServiceBus.LicenseManager License expires on 4/24/2017 12:00:00 AM
+2016-12-12 17:11:17.187 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'SVEACORP\se-vahmoha-01' to group 'Performance Monitor Users' because the user is already in group.
+2016-12-12 17:11:17.416 INFO  NServiceBus.Features.QueuePermissions Queue [private$\error] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-12-12 17:11:17.574 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Billing.Timeouts] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-12-12 17:11:17.692 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Billing.TimeoutsDispatcher] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-12-12 17:11:17.847 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Billing] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-12-12 17:11:25.214 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Client with instances [Samples.CustomRouting.Client;machine:SE-DEVPC1028]
+2016-12-12 17:11:25.233 INFO  RoutingInfoSubscriber Added route for OrderAccepted to [Samples.CustomRouting.Shipping]
+2016-12-12 17:11:25.246 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Shipping with instances [Samples.CustomRouting.Shipping;machine:SE-DEVPC1028]
+2016-12-12 17:11:25.254 INFO  RoutingInfoSubscriber Added route for PlaceOrder to [Samples.CustomRouting.Sales]
+2016-12-12 17:11:25.263 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Sales with instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-1]
+2016-12-12 17:11:25.271 INFO  RoutingInfoSubscriber Added Samples.CustomRouting.Sales as publisher of OrderAccepted.
+2016-12-12 17:11:25.317 INFO  RoutingInfoSubscriber Added instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-2] to endpoint Samples.CustomRouting.Sales
+2016-12-12 17:11:40.514 INFO  OrderAcceptedHandler Order billed.
+2016-12-12 17:11:43.036 INFO  OrderAcceptedHandler Order billed.
+2016-12-12 17:11:44.027 INFO  OrderAcceptedHandler Order billed.
+2016-12-12 17:11:44.748 INFO  OrderAcceptedHandler Order billed.
+2016-12-12 17:11:45.249 INFO  OrderAcceptedHandler Order billed.

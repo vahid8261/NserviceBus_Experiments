@@ -1,0 +1,44 @@
+﻿2016-09-06 10:32:36.060 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Client\bin\Debug\' with level Info
+2016-09-06 10:33:01.816 INFO  NServiceBus.LicenseManager License expires on 10/16/2016 12:00:00 AM
+2016-09-06 10:33:39.892 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Client\bin\Debug\' with level Info
+2016-09-06 10:33:40.403 INFO  NServiceBus.LicenseManager License expires on 10/16/2016 12:00:00 AM
+2016-09-06 10:33:46.281 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'SVEACORP\se-vahmoha-01' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "SVEACORP\se-vahmoha-01" /add
+2016-09-06 10:33:46.369 INFO  NServiceBus.Features.QueuePermissions Queue [private$\error] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:33:46.422 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Client.Timeouts] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:33:46.466 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Client.TimeoutsDispatcher] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:33:46.555 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Client] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:33:55.712 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2016-09-06 10:33:59.684 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Billing with instances [Samples.CustomRouting.Billing;machine:SE-DEVPC1028]
+2016-09-06 10:33:59.735 INFO  RoutingInfoSubscriber Added route for PlaceOrder to [Samples.CustomRouting.Sales]
+2016-09-06 10:33:59.765 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Sales with instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-1]
+2016-09-06 10:33:59.795 INFO  RoutingInfoSubscriber Added Samples.CustomRouting.Sales as publisher of OrderAccepted.
+2016-09-06 10:33:59.812 INFO  RoutingInfoSubscriber Added instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-2] to endpoint Samples.CustomRouting.Sales
+2016-09-06 10:33:59.916 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Shipping with instances [Samples.CustomRouting.Shipping;machine:SE-DEVPC1028]
+2016-09-06 10:34:00.017 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2016-09-06 10:34:17.187 INFO  NServiceBus.LicenseManager License expires on 10/16/2016 12:00:00 AM
+2016-09-06 10:34:18.094 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'SVEACORP\se-vahmoha-01' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "SVEACORP\se-vahmoha-01" /add
+2016-09-06 10:34:18.111 INFO  NServiceBus.Features.QueuePermissions Queue [private$\error] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:34:18.129 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Client.Timeouts] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:34:18.146 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Client.TimeoutsDispatcher] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:34:18.173 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Client] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:34:21.420 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2016-09-06 10:34:21.447 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2016-09-06 10:34:23.947 INFO  NServiceBus.LicenseManager License expires on 10/16/2016 12:00:00 AM
+2016-09-06 10:34:24.865 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'SVEACORP\se-vahmoha-01' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "SVEACORP\se-vahmoha-01" /add
+2016-09-06 10:34:24.881 INFO  NServiceBus.Features.QueuePermissions Queue [private$\error] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:34:24.901 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Client.Timeouts] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:34:24.915 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Client.TimeoutsDispatcher] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:34:24.928 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Client] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:34:24.949 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Billing with instances [Samples.CustomRouting.Billing;machine:SE-DEVPC1028]
+2016-09-06 10:34:24.954 INFO  RoutingInfoSubscriber Added route for PlaceOrder to [Samples.CustomRouting.Sales]
+2016-09-06 10:34:24.961 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Sales with instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-1]
+2016-09-06 10:34:24.968 INFO  RoutingInfoSubscriber Added Samples.CustomRouting.Sales as publisher of OrderAccepted.
+2016-09-06 10:34:24.973 INFO  RoutingInfoSubscriber Added instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-2] to endpoint Samples.CustomRouting.Sales
+2016-09-06 10:34:24.978 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Shipping with instances [Samples.CustomRouting.Shipping;machine:SE-DEVPC1028]
+2016-09-06 10:36:20.850 INFO  RoutingInfoSubscriber Instance Samples.CustomRouting.Billing;machine:SE-DEVPC1028 deactivated (heartbeat timeout).
+2016-09-06 10:36:20.865 INFO  RoutingInfoSubscriber Instance Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-1 deactivated (heartbeat timeout).
+2016-09-06 10:36:20.870 INFO  RoutingInfoSubscriber Instance Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-2 deactivated (heartbeat timeout).
+2016-09-06 10:36:20.877 INFO  RoutingInfoSubscriber Instance Samples.CustomRouting.Shipping;machine:SE-DEVPC1028 deactivated (heartbeat timeout).

@@ -1,0 +1,12 @@
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\bin\Debug\MyClient.exe
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\bin\Debug\MyClient.pdb
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\bin\Debug\NServiceBus.Core.dll
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\bin\Debug\Shared.dll
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\bin\Debug\Shared.pdb
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\bin\Debug\NServiceBus.Core.pdb
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\bin\Debug\NServiceBus.Core.xml
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\obj\Debug\MyClient.exe
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Client\obj\Debug\MyClient.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\bin\Debug\Billing.exe
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\bin\Debug\Billing.pdb
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\bin\Debug\NServiceBus.Core.dll
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\bin\Debug\Shared.dll
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\bin\Debug\Shared.pdb
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\bin\Debug\NServiceBus.Core.pdb
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\bin\Debug\NServiceBus.Core.xml
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\obj\Debug\Billing.exe
+D:\Projects\Git\NserviceBus_Experiments\CostumRouting\Billing\obj\Debug\Billing.pdb

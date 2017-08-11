@@ -1,0 +1,23 @@
+﻿2016-09-06 10:32:34.030 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Billing\bin\Debug\' with level Info
+2016-09-06 10:32:34.971 INFO  NServiceBus.LicenseManager License expires on 10/16/2016 12:00:00 AM
+2016-09-06 10:33:38.918 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Billing\bin\Debug\' with level Info
+2016-09-06 10:33:39.202 INFO  NServiceBus.LicenseManager License expires on 10/16/2016 12:00:00 AM
+2016-09-06 10:33:45.903 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'SVEACORP\se-vahmoha-01' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "SVEACORP\se-vahmoha-01" /add
+2016-09-06 10:33:46.217 INFO  NServiceBus.Features.QueuePermissions Queue [private$\error] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:33:46.340 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Billing.Timeouts] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:33:46.404 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Billing.TimeoutsDispatcher] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:33:46.453 INFO  NServiceBus.Features.QueuePermissions Queue [private$\Samples.CustomRouting.Billing] is running with [Everyone] and [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2016-09-06 10:33:59.862 INFO  RoutingInfoSubscriber Added route for PlaceOrder to [Samples.CustomRouting.Sales]
+2016-09-06 10:33:59.926 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Sales with instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-1]
+2016-09-06 10:33:59.943 INFO  RoutingInfoSubscriber Added Samples.CustomRouting.Sales as publisher of OrderAccepted.
+2016-09-06 10:33:59.958 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Client with instances [Samples.CustomRouting.Client;machine:SE-DEVPC1028]
+2016-09-06 10:33:59.967 INFO  RoutingInfoSubscriber Added instances [Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-2] to endpoint Samples.CustomRouting.Sales
+2016-09-06 10:33:59.978 INFO  RoutingInfoSubscriber Added endpoint Samples.CustomRouting.Shipping with instances [Samples.CustomRouting.Shipping;machine:SE-DEVPC1028]
+2016-09-06 10:34:17.010 INFO  RoutingInfoSubscriber Instance Samples.CustomRouting.Sales;machine:SE-DEVPC1028;queue:Samples.CustomRouting.Sales-1 deactivated (heartbeat timeout).
+2016-09-06 10:34:17.055 INFO  RoutingInfoSubscriber Instance Samples.CustomRouting.Client;machine:SE-DEVPC1028 deactivated (heartbeat timeout).
+2016-09-06 10:34:17.087 INFO  RoutingInfoSubscriber Instance Samples.CustomRouting.Shipping;machine:SE-DEVPC1028 deactivated (heartbeat timeout).
+2016-09-06 10:34:17.172 INFO  RoutingInfoSubscriber Instance Samples.CustomRouting.Client;machine:SE-DEVPC1028 deactivated.
+2016-09-06 10:34:24.008 INFO  RoutingInfoSubscriber Instance Samples.CustomRouting.Client;machine:SE-DEVPC1028 deactivated.
+2016-09-06 10:39:18.242 INFO  DefaultFactory Logging to 'D:\Projects\Git\docs.particular.net\samples\routing\custom\Core_6\Billing\bin\Debug\' with level Info
+2016-09-06 10:39:18.514 INFO  NServiceBus.LicenseManager License expires on 10/16/2016 12:00:00 AM
